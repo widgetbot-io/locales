@@ -56,7 +56,7 @@
     "frontend.membercount.tooltip": "{COUNT} members in this server.",
     "frontend.nomessages": "No messages to be seen here!",
     "frontend.errorahoy": "Error Ahoy!",
-    "frontend.errorahoy.desc": "Something unexpected occurred! WidgetBot support (for site admins): https://discord.gg/NYBEhN7",
+    "frontend.errorahoy.desc": "Something unexpected occurred!",
     "frontend.notif.channelunavailable": "Channel unavailable",
     "frontend.notif.channelunavailable.desc": "This channel is not available.",
     "frontend.notif.serverunavailable": "Server unavailable",
