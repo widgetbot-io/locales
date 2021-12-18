@@ -51,6 +51,8 @@
     "frontend.auth.login2": "Log in",
     "frontend.input.login": "Click here to log in and participate in chat",
     "frontend.input.noperms": "You do not have permission to send messages",
+    "frontend.input.threadlocked": "You can not send messages to a locked thread.",
+    "frontend.input.threadarchived": "You can not send messages to an archived thread.",
     "frontend.input.message": "Message #{CHANNEL}",
     "frontend.membercount.one.tooltip": "1 member in this server.",
     "frontend.membercount.tooltip": "{COUNT} members in this server.",
