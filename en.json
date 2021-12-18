@@ -74,6 +74,8 @@
     "frontend.messages.boost": "just boosted the server!",
     "frontend.messages.boost.achieved": "{GUILD} has achieved <strong>Level {TIER}!</strong>",
     "frontend.messages.follow": "has added {HOOK} to this channel. Its most important updates will show up here.",
+    "frontend.messages.threadcreated": "started a thread: ",
+    "frontend.messages.threadarchived": "This thread is archived",
     "server.error.bot.connecting": "We are still connecting to discord, please try again!",
     "server.error.request.timeout": "We are currently upgrading our backend, please try again!",
     "server.error.invalid.response": "You have received invalid data, please try again.",
