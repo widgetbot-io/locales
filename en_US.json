@@ -14,7 +14,7 @@
     "command.channel.no.selection": "Please specify a valid section to edit channels for. (whitelist/blacklist)",
     "command.channel.no.ids": "Please specify a list of channel **ids** to add to the whitelist/blacklist seperated by spaces.",
     "command.channel.updated": "Your servers whitelist/blacklist has been updated!",
-    "command.gm.updated": "Guest Mode is {VALUE} enabled on your websites embed.",
+    "command.gm.updated": "Guest Mode is {VALUE} enabled on your websites embed.\n",
     "command.ro.updated": "{CHAN} is {TYPE} read-only on your websites embed.",
     "command.colour.no.name": "Please choose a valid color name. ({COLOURS})",
     "command.colour.name.invalid": "Please provide a valid color.",
