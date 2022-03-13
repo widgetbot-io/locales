@@ -1,5 +1,0 @@
-{
-    "set.prefix": "Prefix `{OLD}`'den `{NEW}` olarak değiştirildi",
-    "current.prefix": "Bu sunucu için geçerli prefix: {PREFIX}",
-    "hello.world": "Selam Dünya!"
-}
