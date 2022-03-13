@@ -23,7 +23,7 @@
     "choosechannel": "Select a channel",
     "choosechannel.desc": "Pick a channel from the left",
     "errorahoy": "Error Ahoy!",
-    "errorahoy.desc": "Something unexpected occurred!",
+    "errorahoy.desc": "Something unexpected occurred! WidgetBot support (for site admins): https://discord.gg/NYBEhN7",
     "notif.channelunavailable": "Channel unavailable",
     "notif.channelunavailable.desc": "This channel is not available.",
     "notif.serverunavailable": "Server unavailable",
