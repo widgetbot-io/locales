@@ -11,6 +11,9 @@
   "auth.discordacc": "Discord account?",
   "auth.login2": "Log in",
 
+  "guild.channelselect": "Select a channel",
+  "guild.channelselect.topic": "Pick a channel from the left",
+
   "input.login": "Click here to log in and participate in chat",
   "input.noperms": "You do not have permission to send messages in this channel.",
   "input.threadlocked": "You can not send messages to a locked thread.",
