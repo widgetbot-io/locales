@@ -34,6 +34,8 @@
   "logout.tooltip": "Logout",
 
   "nomessages": "No messages to be seen here!",
+  "nopinnedmessages.top": "This channel doesn't have any ",
+  "nopinnedmessages.bottom": "pinned messages... yet.",
   "nothreads": "There are no threads.",
 
   "errorahoy": "Error Ahoy!",
