@@ -2,14 +2,14 @@
   "opendiscord": "Open Discord App",
   "opendiscord.tooltip": "Open in Discord app",
 
-  "auth.login": "Login",
-  "auth.logout": "Logout",
+  "auth.login": "Log in",
+  "auth.logout": "Log out",
   "auth.welcome": "Welcome!",
   "auth.pickname": "Pick a name to start chatting",
   "auth.name": "Name",
   "auth.continue": "Continue",
-  "auth.discordacc": "Discord account?",
-  "auth.login2": "Log in",
+  "auth.or": "Or",
+  "auth.discordlogin": "Log in with Discord",
 
   "guild.channelselect": "Select a channel",
   "guild.channelselect.topic": "Pick a channel from the left",
