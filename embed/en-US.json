@@ -2,14 +2,14 @@
   "opendiscord": "Open Discord App",
   "opendiscord.tooltip": "Open in Discord app",
 
-  "auth.login": "Log in",
-  "auth.logout": "Log out",
+  "auth.login": "Login",
+  "auth.logout": "Logout",
   "auth.welcome": "Welcome!",
   "auth.pickname": "Pick a name to start chatting",
   "auth.name": "Name",
   "auth.continue": "Continue",
-  "auth.or": "Or",
-  "auth.discordlogin": "Log in with Discord",
+  "auth.discordacc": "Discord account?",
+  "auth.login2": "Log in",
 
   "guild.channelselect": "Select a channel",
   "guild.channelselect.topic": "Pick a channel from the left",
@@ -27,6 +27,11 @@
 
   "avatar.alt.label": "{USERNAME}'s Avatar.",
   "attachment.open": "Open original",
+
+  "message.delete.tooltip": "Delete Message",
+  "message.speak.tooltip": "Speak Message",
+  "message.copyid.tooltip": "Copy Message ID",
+  "message.copylink.tooltip": "Copy Message Link",
 
   "showmembers.tooltip": "Show Members List",
   "hidemembers.tooltip": "Hide Members List",
