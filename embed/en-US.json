@@ -28,6 +28,8 @@
   "avatar.alt.label": "{USERNAME}'s Avatar.",
   "attachment.open": "Open original",
 
+  "message.speak.repliedto": "replied to",
+  "message.speak.said": "said",
   "message.delete.tooltip": "Delete Message",
   "message.speak.tooltip": "Speak Message",
   "message.copyid.tooltip": "Copy Message ID",
