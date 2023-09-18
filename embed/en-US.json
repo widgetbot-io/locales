@@ -30,6 +30,9 @@
   "avatar.alt.label": "{USERNAME}'s Avatar.",
   "attachment.open": "Open original",
 
+  
+  "message.author.guest": "Guest",
+
   "message.delete": "Delete Message",
   "message.delete.subheader": "Are you sure you want to delete this message?",
 
