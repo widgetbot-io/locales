@@ -35,8 +35,8 @@
   "message.delete": "Delete Message",
   "message.delete.subheader": "Are you sure you want to delete this message?",
 
-  "message.speak.repliedto": "replied to",
-  "message.speak.said": "said",
+  "message.speak.repliedto": "{AUTHOR} replied to {REFERENCED_AUTHOR} {CONTENT}",
+  "message.speak.said": "{AUTHOR} said {CONTENT}",
   "message.speak.tooltip": "Speak Message",
   "message.copyid.tooltip": "Copy Message ID",
   "message.copylink.tooltip": "Copy Message Link",
