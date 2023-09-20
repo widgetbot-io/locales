@@ -19,6 +19,8 @@
   "input.threadlocked": "You can not send messages to a locked thread.",
   "input.threadarchived": "You can not send messages to an archived thread.",
   "input.message": "Message #{CHANNEL}",
+  "input.slowmode": "Slowmode is enabled.",
+  "input.slowmode.tooltip": "Slowmode is enabled.\nMembers can send one\nmessage every {DURATION}.",
 
   "contextmenu.copylink": "Copy Link",
 
