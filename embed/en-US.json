@@ -9,7 +9,8 @@
   "auth.name": "Name",
   "auth.continue": "Continue",
   "auth.discordacc": "Discord account?",
-  "auth.login2": "Log in",
+  "auth.discordlogin": "Log in ",
+  "auth.login2": "Log in with Discord",
 
   "guild.channelselect": "Select a channel",
   "guild.channelselect.topic": "Pick a channel from the left",
