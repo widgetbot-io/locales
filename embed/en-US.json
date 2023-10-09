@@ -67,6 +67,7 @@
   "notif.update.desc": "A new update is available! Please refresh.",
   "notif.serverissues": "Server issues",
   "notif.serverissues.desc": "Failed to connect to the WidgetBot server, the embed is currently working offline",
+  "notif.sendmessage.unsuccessful": "Error sending message",
   "notif.login.unsuccessful": "Login unsuccessful",
   "notif.loaderror.chat": "Error loading chat",
   "notif.loaderror.messages": "Error loading messages",
