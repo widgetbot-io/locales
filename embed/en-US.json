@@ -72,6 +72,7 @@
   "notif.login.unsuccessful": "Login unsuccessful",
   "notif.loaderror.chat": "Error loading chat",
   "notif.loaderror.messages": "Error loading messages",
+  "notif.loaderror.forum": "Error loading forum posts",
   "notif.delete.error": "Error deleting message",
 
   "message.interaction.loading": "{NAME} is thinking...",
