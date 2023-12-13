@@ -92,6 +92,12 @@
   "suggestions.emoji": "Emoji",
   "suggestions.matching": "Matching",
 
+  "commands.shrug.description": "Appends ¯\\_(ツ)_/¯ to your message.",
+  "commands.tableflip.description": "Appends (╯°□°）╯︵ ┻━┻ to your message.",
+  "commands.unflip.description": "Appends ┬─┬ ノ( ゜-゜ノ) to your message.",
+  "commands.me.description": "Displays text with emphasis.",
+  "commands.spoiler.description": "Marks your message as a spoiler.",
+
   "emoji.people": "People",
   "emoji.nature": "Nature",
   "emoji.food": "Food",
