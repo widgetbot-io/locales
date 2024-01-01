@@ -74,6 +74,7 @@
   "notif.loaderror.chat": "Error loading chat",
   "notif.loaderror.messages": "Error loading messages",
   "notif.loaderror.forum": "Error loading forum posts",
+  "notif.loaderror.guild": "Error loading guild.",
   "notif.delete.error": "Error deleting message",
 
   "message.interaction.loading": "{NAME} is thinking...",
