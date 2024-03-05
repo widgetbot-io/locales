@@ -51,6 +51,7 @@
   "pinnedmessages.tooltip": "Pinned Messages",
   "openthread.tooltip": "Open Thread",
   "logout.tooltip": "Logout",
+  "settings.tooltip": "Settings",
 
   "nomessages": "No messages to be seen here!",
   "nopinnedmessages.top": "This channel doesn't have any ",
