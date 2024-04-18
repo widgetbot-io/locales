@@ -49,8 +49,8 @@
   "showmembers.tooltip": "Show Members List",
   "hidemembers.tooltip": "Hide Members List",
 
-  "membercount.one.tooltip": "1 member in this server.",
-  "membercount.tooltip": "{COUNT} members in this server.",
+  "membercount_one": "{count} member in this server.",
+  "membercount_other": "{count} members in this server.",
   "pinnedmessages.tooltip": "Pinned Messages",
   "openthread.tooltip": "Open Thread",
   "logout.tooltip": "Logout",
