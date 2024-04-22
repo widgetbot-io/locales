@@ -104,6 +104,13 @@
   "commands.me.description": "Displays text with emphasis.",
   "commands.spoiler.description": "Marks your message as a spoiler.",
 
+  "upload": "Upload {ATTACHMENT_NAME}",
+  "upload.label.filename": "filename",
+  "upload.label.message": "message",
+  "upload.placeholder.message": "Add message content (optional)",
+  "upload.markspoiler": "Mark as spoiler",
+  "uploadto": "Upload to #{CHANNEL}",
+
   "emoji.people": "People",
   "emoji.nature": "Nature",
   "emoji.food": "Food",
