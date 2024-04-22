@@ -80,6 +80,8 @@
   "notif.loaderror.forum": "Error loading forum posts",
   "notif.loaderror.guild": "Error loading guild.",
   "notif.delete.error": "Error deleting message",
+  "notif.upload.unsuccessful": "Error uploading file",
+  "notif.upload.unsuccessful.desc": "The file you are attempting to upload exceeds the maximum allowed size of 25MB",
 
   "message.interaction.loading": "{NAME} is thinking...",
   "message.interaction.loading.failed": "The application did not respond",
