@@ -27,6 +27,9 @@
 
   "profile.button.message": "Message @{USER}",
   "profile.button.block": "Block @{USER}",
+  "profile.roles_one": "role",
+  "profile.roles_other": "roles",
+
 
   "contextmenu.copylink": "Copy Link",
 
