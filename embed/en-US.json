@@ -25,8 +25,8 @@
   "input.slowmode": "Slowmode is enabled.",
   "input.slowmode.tooltip": "Slowmode is enabled.\nMembers can send one\nmessage every {DURATION}.",
 
-  "profile.button.message": "Message @{USER",
-  "profile.button.block": "Block @{USER",
+  "profile.button.message": "Message @{USER}",
+  "profile.button.block": "Block @{USER}",
 
   "contextmenu.copylink": "Copy Link",
 
