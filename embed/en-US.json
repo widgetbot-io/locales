@@ -30,7 +30,6 @@
   "profile.roles_one": "role",
   "profile.roles_other": "roles",
 
-
   "contextmenu.copylink": "Copy Link",
 
   "threads.label": "Threads",
@@ -67,6 +66,9 @@
   "nopinnedmessages.bottom": "pinned messages... yet.",
   "nothreads": "There are no threads.",
   "noactiveposts": "There are no active posts.",
+
+  "channels": "Channels",
+  "chats": "Chats",
 
   "errorahoy": "Error Ahoy!",
   "errorahoy.desc": "Something unexpected occurred!",
