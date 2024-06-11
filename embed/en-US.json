@@ -64,6 +64,7 @@
   "settings.tooltip": "Settings",
 
   "leavegroup": "Leave Group",
+  "leavegroup.desc": "Are you sure you want to leave this group? You won't be able to rejoin this group unless you are re-invited.",
   "addmember": "Add Member",
   "newchat": "New Chat",
   "creategroup.count": "Create Group with {SIZE} Users",
