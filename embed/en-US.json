@@ -65,6 +65,8 @@
 
   "leavegroup": "Leave Group",
   "leavegroup.desc": "Are you sure you want to leave this group? You won't be able to rejoin this group unless you are re-invited.",
+  "add.user.togroup": "Add {USER} to group",
+  "add.users.togroup": "Add {SIZE} users to group",
   "addmember": "Add Member",
   "newchat": "New Chat",
   "creategroup.count": "Create Group with {SIZE} Users",
