@@ -55,6 +55,7 @@
 
   "showmembers.tooltip": "Show Members List",
   "hidemembers.tooltip": "Hide Members List",
+  "memberslist.count": "Members—{MEMBERS}",
 
   "membercount_one": "{count, number} member in this server.",
   "membercount_other": "{count, number} members in this server.",
