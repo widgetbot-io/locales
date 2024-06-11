@@ -51,6 +51,8 @@
   "message.copyid.tooltip": "Copy Message ID",
   "message.copylink.tooltip": "Copy Message Link",
 
+  "dm.message.placeholder": "Message @{NAMES}",
+
   "showmembers.tooltip": "Show Members List",
   "hidemembers.tooltip": "Hide Members List",
 
