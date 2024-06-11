@@ -63,6 +63,14 @@
   "logout.tooltip": "Logout",
   "settings.tooltip": "Settings",
 
+  "leavegroup": "Leave Group",
+  "addmember": "Add Member",
+  "newchat": "New Chat",
+  "creategroup.count": "Create Group with {SIZE} Users",
+  "select.users": "Select Users",
+  "search.users": "Search Users",
+  "enter.message": "Enter a Message",
+
   "nomessages": "No messages to be seen here!",
   "nopinnedmessages.top": "This channel doesn't have any ",
   "nopinnedmessages.bottom": "pinned messages... yet.",
