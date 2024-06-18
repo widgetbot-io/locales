@@ -87,6 +87,8 @@
   "errorahoy": "Error Ahoy!",
   "errorahoy.desc": "Something unexpected occurred!",
 
+  "error.creatinggroup": "Error creating group.",
+
   "notif.channelunavailable": "Channel unavailable",
   "notif.channelunavailable.desc": "This channel is not available.",
   "notif.serverunavailable": "Server unavailable",
