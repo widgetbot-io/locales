@@ -71,6 +71,7 @@
   "add.users.togroup": "Add {SIZE} users to group",
   "addmember": "Add Member",
   "newchat": "New Chat",
+  "new.dmgroupchat": "+ New DM/Group Chat",
   "creategroup.count": "Create Group with {SIZE} Users",
   "select.users": "Select Users",
   "search.users": "Search Users",
