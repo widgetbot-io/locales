@@ -91,6 +91,7 @@
 
   "error.creatinggroup": "Error creating group.",
   "error.chatsquery": "Error getting chats.",
+  "error.decodingtoken":"Error decoding token.",
 
   "notif.channelunavailable": "Channel unavailable",
   "notif.channelunavailable.desc": "This channel is not available.",
