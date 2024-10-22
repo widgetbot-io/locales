@@ -89,6 +89,7 @@
   "errorahoy.desc": "Something unexpected occurred!",
 
   "error.creatinggroup": "Error creating group.",
+  "error.chatsquery": "Error getting chats.",
 
   "notif.channelunavailable": "Channel unavailable",
   "notif.channelunavailable.desc": "This channel is not available.",
