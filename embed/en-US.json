@@ -88,10 +88,11 @@
 
   "errorahoy": "Error Ahoy!",
   "errorahoy.desc": "Something unexpected occurred!",
+  "clicktoseeattachment": "Click to see attachment",
 
   "error.creatinggroup": "Error creating group.",
   "error.chatsquery": "Error getting chats.",
-  "error.decodingtoken":"Error decoding token.",
+  "error.decodingtoken": "Error decoding token.",
 
   "notif.channelunavailable": "Channel unavailable",
   "notif.channelunavailable.desc": "This channel is not available.",
