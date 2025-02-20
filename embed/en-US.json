@@ -34,6 +34,11 @@
 
   "threads.label": "Threads",
   "olderthreads.label": "Older Threads",
+  "threads.create.button": "Create",
+  "threads.create.title": "New Thread",
+  "threads.create.namelabel": "Thread Name",
+  "threads.create.namerequired": "You didn't enter a thread name!",
+  "threads.create.placeholder": "Enter a message to start the conversation!",
   "cancel.label": "Cancel",
   "delete.label": "Delete",
 
