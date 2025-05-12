@@ -56,6 +56,7 @@
   "message.speak.tooltip": "Speak Message",
   "message.copyid.tooltip": "Copy Message ID",
   "message.copylink.tooltip": "Copy Message Link",
+  "message.report.tooltip": "Report Message",
 
   "dm.message.placeholder": "Message @{NAMES}",
 
