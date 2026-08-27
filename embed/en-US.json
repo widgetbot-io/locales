@@ -84,6 +84,11 @@
   "enter.message": "Enter a Message",
 
   "nomessages": "No messages to be seen here!",
+
+  "jumptopresent": "Jump to present",
+  "newmessages_one": "{count, number} new message",
+  "newmessages_other": "{count, number} new messages",
+
   "nopinnedmessages.top": "This channel doesn't have any ",
   "nopinnedmessages.bottom": "pinned messages... yet.",
   "nothreads": "There are no threads.",
