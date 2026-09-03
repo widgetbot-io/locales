@@ -54,6 +54,7 @@
   "message.speak.repliedto": "{AUTHOR} replied to {REFERENCED_AUTHOR} {CONTENT}",
   "message.speak.said": "{AUTHOR} said {CONTENT}",
   "message.speak.tooltip": "Speak Message",
+  "message.copytext": "Copy Text",
   "message.copyid.tooltip": "Copy Message ID",
   "message.copylink.tooltip": "Copy Message Link",
   "message.report.tooltip": "Report Message",
