@@ -152,6 +152,7 @@
   "upload.label.message": "message",
   "upload.placeholder.message": "Add message content (optional)",
   "upload.markspoiler": "Mark as spoiler",
+  "upload.drop": "Drop your file here to upload it",
   "uploadto": "Upload to #{CHANNEL}",
 
   "emoji.people": "People",
